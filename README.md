@@ -19,4 +19,5 @@
 3. [关于堆栈的讲解(我见过的最经典的)](https://www.eet-china.com/mp/a44614.html)
 - 队列(queue)
 1. [python queue](https://www.liujiangblog.com/course/python/59)
-- 
+- 堆(heap)
+1. [python堆](https://www.cnblogs.com/kumata/p/9201571.html)
