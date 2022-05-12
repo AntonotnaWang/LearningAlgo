@@ -14,4 +14,5 @@
 - 栈(stack)
 1. [python数据结构](https://docs.python.org/zh-cn/3/tutorial/datastructures.html)
 2. [码哥聊Python数据结构--栈](https://zhuanlan.zhihu.com/p/91257641)
+3. [关于堆栈的讲解(我见过的最经典的)](https://www.eet-china.com/mp/a44614.html)
 - 
