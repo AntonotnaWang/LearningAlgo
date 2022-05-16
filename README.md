@@ -21,3 +21,5 @@
 1. [python queue](https://www.liujiangblog.com/course/python/59)
 - 堆(heap)
 1. [python堆](https://www.cnblogs.com/kumata/p/9201571.html)
+- 链表(linked list)
+- 二叉树(binary tree)
